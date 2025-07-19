@@ -1,31 +1,71 @@
-<!-- 🚀 Dev Banner: Place the SVG below at assets/dev-banner.svg in your repo! -->
+<!-- 🚀 Cosmic Dev Banner — Place this SVG at assets/dev-banner.svg in your repo! -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fakruddin46/Fakruddin46/main/assets/dev-banner.svg" alt="Fakruddin | Software Developer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Fakruddin46/Fakruddin46/main/assets/dev-banner.svg" alt="Fakruddin | Cosmic Software Developer Banner" width="100%" />
 </p>
 
-<h1 align="center">👨‍💻 Fakruddin: Crafting Code & Creating Magic</h1>
+<h1 align="center">🚀 Fakruddin: Code Alchemist & Digital Dreamer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=F7F7F7&center=true&vCenter=true&width=500&lines=Transforming+Ideas+Into+Reality;Coding+with+Passion;Learning+Every+Day" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=4E9AF1&center=true&vCenter=true&width=500&lines=Building+Tomorrow's+Tech+Today;Turning+Ideas+Into+Code;Passionate+about+Learning;Always+Brewing+Something+Cool!" alt="Typing Animation" />
 </p>
 
-<!-- Main Developer GIF -->
+<!-- Main Animated GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding in Action"/>
 </p>
 
-<h2 align="center">✨ Who Am I? (Hint: Not Your Average Dev!)</h2>
+<h2 align="center">🌟 Meet Fakruddin: Your Next Favorite Developer</h2>
 <ul>
-  <li>🧩 Turning bugs into features since <strong>2019</strong></li>
-  <li>🌐 Exploring the worlds of <strong>Cloud, AI, and Backend Engineering</strong></li>
-  <li>🚧 Building scalable apps, one coffee at a time</li>
-  <li>☕ Fun fact: My coffee machine runs on Python scripts!</li>
+  <li>🧩 Squashing bugs & conjuring features since <strong>2019</strong></li>
+  <li>🌐 Adventuring in <strong>Cloud, AI, and Backend Wizardry</strong></li>
+  <li>☕ My coffee machine runs on Python scripts (seriously!)</li>
+  <li>🎯 Mission: Build smart, scalable solutions that make a difference</li>
 </ul>
 
-<h2 align="center">⚡ Tools of the Trade</h2>
+<h2 align="center">⚡️ My Toolbox: Where the Magic Happens</h2>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" title="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/>
+</p>
+
+<h2 align="center">📬 Let's Build Something Awesome Together!</h2>
+<p align="center">
+  <a href="mailto:fakruddin.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-4E9AF1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<h2 align="center">🌐 Connect & Collaborate</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/fakruddin46" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/fakruddin.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/@fakruddin.dev" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-181717?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+<!-- Bonus: Dev Terminal GIF for flair -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="240" alt="Terminal Animation"/>
+</p>
+
+<!--
+Cosmic Dev Banner SVG Example (save as assets/dev-banner.svg in your repo):
+
+<svg width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#181717"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="40" fill="#4E9AF1" font-family="Fira Code, monospace">Cosmic Software Developer</text>
+  <text x="50%" y="90" dominant-baseline="middle" text-anchor="middle" font-size="20" fill="#fff" font-family="Fira Code, monospace">Crafting code. Brewing ideas. Building the future.</text>
+</svg>
+-->
