@@ -1,5 +1,5 @@
 <!-- 🚀 Cosmic Dev Banner — Place this SVG at assets/dev-banner.svg in your repo! -->
-<p align="center">Fakruddin | Cosmic Software Developer Banner</p>
+<p align="center">Fakruddin | Software Developer</p>
 
 <h1 align="center">🚀 Fakruddin: Code Alchemist & Digital Dreamer</h1>
 
@@ -45,10 +45,10 @@
   <a href="https://www.linkedin.com/in/shaikfakru/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[https://instagram.com/fakruddin.dev](https://www.instagram.com/fakru_cricbytess/)" target="_blank">
+  <a href="https://www.instagram.com/fakru_cricbytess/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="[https://www.youtube.com/@fakruddin.dev](http://www.youtube.com/@CrickBytess)" target="_blank">
+  <a href="http://www.youtube.com/@CrickBytess" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-181717?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
