@@ -42,7 +42,7 @@
 
 <h2 align="center">🌐 Connect & Collaborate</h2>
 <p align="center">
-  <a href="[https://linkedin.com/in/fakruddin46](https://www.linkedin.com/in/shaikfakru/)" target="_blank">
+  <a href="https://www.linkedin.com/in/shaikfakru/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="[https://instagram.com/fakruddin.dev](https://www.instagram.com/fakru_cricbytess/)" target="_blank">
