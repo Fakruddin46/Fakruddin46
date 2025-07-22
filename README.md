@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shaik fakruddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaik fakruddin" height="30" width="40" /></a>
-<a href="https://fb.com/shaik fakruddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shaik fakruddin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shaikfakru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaik fakruddin" height="30" width="40" /></a>
+<a href="https://www.facebook.com/fakruddin.fakruddin.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shaik fakruddin" height="30" width="40" /></a>
 <a href="https://instagram.com/fakru_cricbytess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fakru_cricbytess" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/crickbytess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="crickbytess" height="30" width="40" /></a>
+<a href="http://www.youtube.com/@CrickBytess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="crickbytess" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shaikfakruddin251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaikfakruddin251" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shaikfakr8dme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shaikfakr8dme" height="30" width="40" /></a>
 </p>
